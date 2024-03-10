@@ -11,7 +11,7 @@ public static class MauiProgram
 			{
 				fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
 				fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
-				fonts.AddFont("RamadhanMubarak.ttf", "MainFont");
+				fonts.AddFont("GoboldBlockyRegular.otf", "MainFont");
 			});
 
 		return builder.Build();

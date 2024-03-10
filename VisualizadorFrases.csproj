@@ -49,7 +49,8 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <None Remove="Resources\Fonts\RamadhanMubarak.ttf" />
+	  <None Remove="Resources\Fonts\GoboldBlockyRegular.otf" />
+	  <None Remove="Resources\Fonts\Yenisei.ttf" />
 	  <None Remove="Resources\Raw\quotes.txt" />
 	</ItemGroup>
 
