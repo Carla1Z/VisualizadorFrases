@@ -50,6 +50,7 @@
 
 	<ItemGroup>
 	  <None Remove="Resources\Fonts\RamadhanMubarak.ttf" />
+	  <None Remove="Resources\Raw\quotes.txt" />
 	</ItemGroup>
 
 </Project>
